@@ -1,4 +1,4 @@
-# app-5
+# simple timeZone selector
 
 ## Project setup
 ```
